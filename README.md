@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/uriyang"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=uriyang&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/uriyang"
+  width="600"
+  height="300"
+/>
 </a>
 <!--
 **uriyang/uriyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
